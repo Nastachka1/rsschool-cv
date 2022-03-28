@@ -21,3 +21,10 @@ function multiply(a, b){
   return(a * b)
 }
 ```
+
+**Experience:**
+ cv.md
+ 
+ **Education:**
+Academy of Public Administration under the Aegis of the President of the Republic of Belarus (2006-2011)
+ + economist-manager
