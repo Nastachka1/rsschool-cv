@@ -1,0 +1,23 @@
+***ANASTASIYA PATSALUIKA***
+=====
+***Front-end developer***
+**Contacts:**
+* *Location:* Gomel, Republic of Belarus    
+* *Email:* a.a.blinkova@mail.ru 
+* *Discord:* Nastachka1#1999
+* *Github:* Nastachka1
+
+**About me:** 
+
+ I am interested in the IT sphere. I want to become a fronted developer. I have analytical thinking skills, excellent communication skills. I like a teamwork. I am willing to learn hard.
+ **Skills:**
+ + HTML;
+ + CSS;
+ + JavaScript (Basics);
+ + Github.
+**Code:** 
+```
+function multiply(a, b){
+  return(a * b)
+}
+```
